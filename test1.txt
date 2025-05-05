@@ -1,0 +1,5 @@
+# esta funcion me enseña a usar git!
+
+
+print("git status")
+
